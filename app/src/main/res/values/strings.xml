@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Checkbox1</string>
+    <string name="input_text">Поле ввода информации</string>
+    <string name="output_text">Поле вывода информации</string>
+    <string name="save_text">Сохранить данные</string>
+    <string name="delete_text">Удалить данные</string>
+</resources>
